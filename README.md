@@ -1,8 +1,8 @@
 - print ("Olá mundo! Eu sou a Iara!")
-- 💻 Atualmente sou pessoa desenvolvedora Front-End
+- 💻 Estudante de desenvolvimento Front-End
 - 🐍 Estudando Python
 - 💬 Pronomes/Pronouns - Ela/Dela
-- 🗣️ Languages: Português - Inglês - Mandarim - Japonês
+- 🗣️ Languages: Português brasileiro - Inglês - Mandarim - 
 
  <div>
   <a href="https://github.com/iaranitamiguel">
