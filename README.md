@@ -1,5 +1,5 @@
 - print ("Olá mundo! Eu sou a Iara!")
-- 💻 Estudante de desenvolvimento Front-End
+- 💻 Desenvolvedora em andamento ...
 - 🐍 Estudando Python
 - 💬 Pronomes/Pronouns - Ela/Dela
 - 🗣️ Languages: Português brasileiro - Inglês - Mandarim - 
