@@ -2,7 +2,7 @@
 - 💻 Desenvolvedora em andamento ...
 - 🐍 Estudando Python
 - 💬 Pronomes/Pronouns - Ela/Dela
-- 🗣️ Languages: Português brasileiro - Inglês - Mandarim - 
+- 🗣️ Languages: Português brasileiro - Inglês - Mandarim  
 
  <div>
   <a href="https://github.com/iaranitamiguel">
